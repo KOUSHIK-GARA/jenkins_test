@@ -7,7 +7,6 @@ public class Main{
         System.out.println("Hi I'm koushik");
         System.out.println("Let\'s Jenkin");
         System.out.println("Added changes");
-        Student s = new Student();
-        s.sayHello();
+        System.out.println("failed Student");
     }
 }
